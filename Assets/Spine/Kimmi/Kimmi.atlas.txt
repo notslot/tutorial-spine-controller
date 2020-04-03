@@ -1,0 +1,475 @@
+
+Kimmi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kimmi/E/E-bangs
+  rotate: false
+  xy: 1082, 904
+  size: 191, 178
+  orig: 191, 178
+  offset: 0, 0
+  index: -1
+Kimmi/E/E-body
+  rotate: false
+  xy: 1277, 698
+  size: 472, 413
+  orig: 472, 413
+  offset: 0, 0
+  index: -1
+Kimmi/E/E-ear-l
+  rotate: false
+  xy: 2, 405
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/NE/NE-ear-l
+  rotate: false
+  xy: 2, 405
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-ear-l
+  rotate: false
+  xy: 2, 405
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-ear-l
+  rotate: false
+  xy: 2, 405
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-eyebrow-l
+  rotate: false
+  xy: 1001, 1577
+  size: 46, 20
+  orig: 48, 22
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-eyelid-down-l
+  rotate: false
+  xy: 551, 259
+  size: 93, 52
+  orig: 95, 54
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-eyelid-up-l
+  rotate: false
+  xy: 1707, 729
+  size: 89, 43
+  orig: 91, 45
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-eyewhite-l
+  rotate: false
+  xy: 1934, 1222
+  size: 95, 125
+  orig: 97, 127
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-face
+  rotate: false
+  xy: 668, 320
+  size: 391, 379
+  orig: 393, 381
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-hair
+  rotate: false
+  xy: 1815, 765
+  size: 231, 332
+  orig: 233, 334
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-mouth-idle
+  rotate: false
+  xy: 1825, 1580
+  size: 35, 17
+  orig: 37, 19
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-nose
+  rotate: false
+  xy: 1250, 740
+  size: 56, 46
+  orig: 58, 48
+  offset: 1, 1
+  index: -1
+Kimmi/E/E-pupil-l
+  rotate: false
+  xy: 1751, 774
+  size: 61, 91
+  orig: 63, 93
+  offset: 1, 1
+  index: -1
+Kimmi/N/N-body
+  rotate: true
+  xy: 1518, 1084
+  size: 513, 414
+  orig: 513, 414
+  offset: 0, 0
+  index: -1
+Kimmi/N/N-ear-l
+  rotate: false
+  xy: 112, 405
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/N/N-ear-r
+  rotate: false
+  xy: 1482, 390
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/N/N-face
+  rotate: false
+  xy: 270, 701
+  size: 404, 381
+  orig: 406, 383
+  offset: 1, 1
+  index: -1
+Kimmi/N/N-hair
+  rotate: false
+  xy: 1457, 40
+  size: 419, 296
+  orig: 421, 298
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-hair
+  rotate: false
+  xy: 1457, 40
+  size: 419, 296
+  orig: 421, 298
+  offset: 1, 1
+  index: -1
+Kimmi/NE/NE-body
+  rotate: true
+  xy: 1102, 1084
+  size: 513, 414
+  orig: 513, 414
+  offset: 0, 0
+  index: -1
+Kimmi/NE/NE-ear-r
+  rotate: false
+  xy: 2, 319
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/NE/NE-face
+  rotate: false
+  xy: 1650, 338
+  size: 396, 386
+  orig: 398, 388
+  offset: 1, 1
+  index: -1
+Kimmi/NE/NE-hair
+  rotate: true
+  xy: 1061, 3
+  size: 341, 394
+  orig: 343, 396
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-bangs
+  rotate: false
+  xy: 668, 152
+  size: 313, 166
+  orig: 313, 166
+  offset: 0, 0
+  index: -1
+Kimmi/SE/SE-bangs
+  rotate: false
+  xy: 668, 152
+  size: 313, 166
+  orig: 313, 166
+  offset: 0, 0
+  index: -1
+Kimmi/S/S-body
+  rotate: true
+  xy: 686, 1084
+  size: 513, 414
+  orig: 513, 414
+  offset: 0, 0
+  index: -1
+Kimmi/S/S-ear-r
+  rotate: false
+  xy: 112, 319
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyebrow-l
+  rotate: false
+  xy: 330, 1577
+  size: 47, 20
+  orig: 49, 22
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyebrow-r
+  rotate: false
+  xy: 584, 1577
+  size: 47, 20
+  orig: 49, 22
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyelid-down-l
+  rotate: false
+  xy: 345, 260
+  size: 101, 51
+  orig: 103, 53
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyelid-down-r
+  rotate: false
+  xy: 448, 260
+  size: 101, 51
+  orig: 103, 53
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyelid-up-l
+  rotate: false
+  xy: 1925, 1117
+  size: 105, 103
+  orig: 107, 105
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyelid-up-r
+  rotate: false
+  xy: 1482, 593
+  size: 105, 103
+  orig: 107, 105
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyewhite-l
+  rotate: false
+  xy: 1916, 1474
+  size: 107, 123
+  orig: 109, 125
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyewhite-l
+  rotate: false
+  xy: 1916, 1474
+  size: 107, 123
+  orig: 109, 125
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-eyewhite-r
+  rotate: false
+  xy: 1934, 1349
+  size: 107, 123
+  orig: 109, 125
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-face
+  rotate: false
+  xy: 676, 701
+  size: 404, 381
+  orig: 406, 383
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-mouth-idle
+  rotate: false
+  xy: 1142, 1581
+  size: 53, 16
+  orig: 55, 18
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-mouth-idle
+  rotate: false
+  xy: 1142, 1581
+  size: 53, 16
+  orig: 55, 18
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-nose
+  rotate: false
+  xy: 1594, 654
+  size: 54, 46
+  orig: 56, 48
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-pupil-l
+  rotate: false
+  xy: 2, 227
+  size: 78, 90
+  orig: 80, 92
+  offset: 1, 1
+  index: -1
+Kimmi/S/S-pupil-r
+  rotate: false
+  xy: 82, 227
+  size: 78, 90
+  orig: 80, 92
+  offset: 1, 1
+  index: -1
+Kimmi/S/arm-r
+  rotate: false
+  xy: 1751, 867
+  size: 54, 215
+  orig: 54, 215
+  offset: 0, 0
+  index: -1
+Kimmi/S/foot-r
+  rotate: false
+  xy: 744, 1576
+  size: 48, 21
+  orig: 50, 23
+  offset: 1, 1
+  index: -1
+Kimmi/S/hand-r
+  rotate: false
+  xy: 1082, 742
+  size: 166, 160
+  orig: 168, 162
+  offset: 1, 1
+  index: -1
+Kimmi/S/index-finger-r
+  rotate: false
+  xy: 1070, 1513
+  size: 70, 84
+  orig: 72, 86
+  offset: 1, 1
+  index: -1
+Kimmi/S/leg-r
+  rotate: false
+  xy: 270, 1097
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+Kimmi/S/middle-finger-r
+  rotate: false
+  xy: 1576, 504
+  size: 63, 87
+  orig: 65, 89
+  offset: 1, 1
+  index: -1
+Kimmi/S/pinky-r
+  rotate: false
+  xy: 1074, 1088
+  size: 62, 92
+  orig: 64, 94
+  offset: 1, 1
+  index: -1
+Kimmi/S/thumb-r
+  rotate: false
+  xy: 1485, 1117
+  size: 65, 69
+  orig: 67, 71
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-body
+  rotate: true
+  xy: 270, 1084
+  size: 513, 414
+  orig: 513, 414
+  offset: 0, 0
+  index: -1
+Kimmi/SE/SE-ear-r
+  rotate: false
+  xy: 1878, 252
+  size: 108, 84
+  orig: 110, 86
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyebrow-l
+  rotate: false
+  xy: 1411, 1579
+  size: 47, 18
+  orig: 49, 20
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyebrow-r
+  rotate: false
+  xy: 1553, 1579
+  size: 47, 18
+  orig: 49, 20
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyelid-down-l
+  rotate: false
+  xy: 1482, 339
+  size: 103, 49
+  orig: 105, 51
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyelid-down-r
+  rotate: false
+  xy: 634, 1540
+  size: 108, 57
+  orig: 110, 59
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyelid-up-l
+  rotate: false
+  xy: 241, 259
+  size: 102, 52
+  orig: 104, 54
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyelid-up-r
+  rotate: false
+  xy: 641, 1098
+  size: 94, 60
+  orig: 96, 62
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-eyewhite-r
+  rotate: false
+  xy: 1482, 476
+  size: 92, 115
+  orig: 94, 117
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-face
+  rotate: false
+  xy: 270, 313
+  size: 396, 386
+  orig: 398, 388
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-hair
+  rotate: false
+  xy: 1061, 346
+  size: 419, 350
+  orig: 421, 352
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-nose
+  rotate: false
+  xy: 270, 1549
+  size: 58, 48
+  orig: 60, 50
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-pupil-l
+  rotate: false
+  xy: 162, 228
+  size: 77, 89
+  orig: 79, 91
+  offset: 1, 1
+  index: -1
+Kimmi/SE/SE-pupil-r
+  rotate: false
+  xy: 1481, 1508
+  size: 70, 89
+  orig: 72, 91
+  offset: 1, 1
+  index: -1
+Kimmi/sword
+  rotate: false
+  xy: 2, 491
+  size: 266, 1106
+  orig: 266, 1106
+  offset: 0, 0
+  index: -1
