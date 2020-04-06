@@ -40,6 +40,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1429832624114139803}
   - component: {fileID: 4788615034445971740}
+  - component: {fileID: 6152824962255524696}
   - component: {fileID: 3786523598054486522}
   - component: {fileID: 7093064328631012882}
   m_Layer: 0
@@ -77,8 +78,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2f8b404c083d486e998e52e0f475029, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spine: {fileID: 1429832625304951419}
   speed: 2
+--- !u!114 &6152824962255524696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1429832624114139802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f2c172a6c674a1ab549df45009e27d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spine: {fileID: 1429832625304951419}
 --- !u!54 &3786523598054486522
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -136,7 +149,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1429832625304951418}
   m_LocalRotation: {x: 0.30070576, y: 0, z: 0, w: 0.953717}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.05, z: 0.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1429832624114139803}
@@ -222,6 +235,6 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: Idle/idle-S
+  _animationName: Idle/S
   loop: 1
   timeScale: 1

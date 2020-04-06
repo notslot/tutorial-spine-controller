@@ -1,12 +1,9 @@
-﻿using Spine.Unity;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class SpineCharacterController : MonoBehaviour
+[RequireComponent(typeof(Rigidbody))]
+public class RigidbodyCharacterController : MonoBehaviour
 {
   #region Inspector
-
-  [SerializeField]
-  private SkeletonAnimation spine = default;
 
   [SerializeField]
   [Min(1)]
@@ -20,6 +17,16 @@ public class SpineCharacterController : MonoBehaviour
   private Rigidbody _physics;
 
   private Vector3 _velocity;
+
+  #endregion
+
+
+  #region Properties
+
+  public float Magnitude => _velocity.magnitude;
+
+  public float AngleDeg =>
+    Mathf.Atan2(_velocity.z, _velocity.x) * Mathf.Rad2Deg;
 
   #endregion
 
